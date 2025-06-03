@@ -47,7 +47,7 @@
 
 와이어샤크로 실습
 
-![image.png](attachment:27c47c33-61cd-436a-be6f-c44fbf18fd38:image.png)
+![lab1.png](./img/lab1.png)
 
 248번 패킷
 
